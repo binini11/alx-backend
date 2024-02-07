@@ -1,0 +1,1 @@
+quining system in js
